@@ -1,4 +1,7 @@
 # Base requirements
-farm-haystack[colab]==1.4.0
+farm-haystack[colab, faiss]==1.17.2
+farm-haystack[elasticsearch]
+farm-haystack[metrics]
 matplotlib
 datasets==2.15
+
