@@ -12,8 +12,8 @@ bertviz==1.2.0
 seqeval==1.2.2
 # Chapter 6 - Summarization
 nltk==3.6.6
-sacrebleu==1.5.1
-rouge-score==0.0.4
+sacrebleu
+rouge-score
 py7zr # Needed for samsum dataset
 # Chapter 9 - Few labels
 nlpaug==1.1.7
