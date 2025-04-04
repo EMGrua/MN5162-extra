@@ -1,7 +1,10 @@
 # Base requirements
-farm-haystack[colab, faiss]==1.17.2
-farm-haystack[elasticsearch]
-farm-haystack[metrics]
+numpy==1.26.4
+farm-haystack==1.17.2
+farm-haystack[elasticsearch]==1.17.2
+farm-haystack[metrics]==1.17.2
+huggingface-hub==0.23
 matplotlib
 datasets==2.15
+scikit-learn==1.1.3
 
