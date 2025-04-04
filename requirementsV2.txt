@@ -1,5 +1,6 @@
 # Base requirements
 transformers
+evaluate
 datasets
 matplotlib
 ipywidgets
