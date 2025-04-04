@@ -1,5 +1,5 @@
 # Base requirements
-transformers[tf,torch,sentencepiece,vision,optuna,sklearn,onnxruntime]
+transformers
 datasets[audio]==2.15
 matplotlib
 ipywidgets
